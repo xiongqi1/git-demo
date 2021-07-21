@@ -2,5 +2,5 @@
 int main()
 {
     printf("hello world,hello git\n");//print
-    return 0;//注释
+    return 0;//注释 by xiongqi2
 }
