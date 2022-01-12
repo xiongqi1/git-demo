@@ -2,5 +2,5 @@
 int main()
 {
     printf("hello world,hello git\n");//print
-    return 0;//注意
+    return 0;//注123
 }
